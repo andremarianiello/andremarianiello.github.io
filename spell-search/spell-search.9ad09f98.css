@@ -102,8 +102,12 @@ a {
     margin: .1em;
 }
 
-.spell > h4 {
+.spell h4 {
     text-align: center;
+}
+
+.spell h6 {
+    margin: 0;
 }
 
 .spell::after {
